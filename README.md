@@ -9,6 +9,10 @@ NATConfigurator adalah aplikasi GUI berbasis Linux yang dirancang untuk mempermu
     ✅ Kompatibel dengan tap0 untuk GNS3
     ✅ Bisa digunakan dengan VirtualBox (bridging, NAT, dan tap)
 🧭 Cara Menggunakan NATConfigurator
+## Setup Environment
+Jalankan perintah berikut untuk install dependencies:
+
+    pip install -r requirements.txt
 
 Jalankan aplikasi:
 
