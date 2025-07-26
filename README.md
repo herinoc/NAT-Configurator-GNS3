@@ -10,11 +10,15 @@ NATConfigurator adalah aplikasi GUI berbasis Linux yang dirancang untuk mempermu
     ✅ Bisa digunakan dengan VirtualBox (bridging, NAT, dan tap)
 🧭 Cara Menggunakan NATConfigurator
 ## Setup Environment
-Jalankan perintah berikut untuk install dependencies:
+Pertama buat virtual environment di folder aplikasi dengan perintah:
+
+    python3 -m venv venv
+   
+Lanjut jalankan perintah berikut untuk install dependencies:
 
     pip install -r requirements.txt
 
-Jalankan aplikasi:
+Jalankan aplikasi dengan:
 
     ./launch.sh
 
